@@ -10,3 +10,4 @@ social:
   weibo: "https://weibo.com/mandaoxiaohui"
 taxonomies:
   author: YuHui
+publishDir: "docs"
