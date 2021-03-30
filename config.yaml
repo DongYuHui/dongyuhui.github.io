@@ -23,7 +23,7 @@ taxonomies:
 
 params:
   footerTitle: "DongYuHui"
-  footerRecord: "浙ICP备20005422号-1"
+  footerRecord: ""
   showAbout: true
 
 publishDir: "docs"
