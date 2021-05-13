@@ -12,4 +12,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 # resources
-/resources
+/resources/_gen
