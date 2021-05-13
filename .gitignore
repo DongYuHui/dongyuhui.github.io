@@ -10,6 +10,3 @@ $RECYCLE.BIN/
 
 # OSX
 .DS_Store
-
-# resources
-/resources/_gen
